@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "task3-db4c5": {
+      "hosting": {
+        "task3": [
+          "task3-db4c5"
+        ]
+      }
+    }
+  }
+}
